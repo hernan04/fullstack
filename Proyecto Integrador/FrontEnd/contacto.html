@@ -39,19 +39,22 @@
 
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
 
-            <form action="">
+            <form action="" id="contacto">
 
                 <label for="correoelectronico">Correo Electrónico</label>
                 <input type="email" id="correoelectronico" class="input-padron" required placeholder="email@dominio.com">
                 
                 <label for="mensaje">Mensaje</label>
-                <textarea name="" id="mensaje" cols="70" rows="5" class="input-padron" required></textarea>
+                <textarea maxlength="250" name="" id="mensaje" cols="70" rows="5" class="input-padron" required></textarea>
                 
                 <input type="submit" value="Enviar" class="login">
+                <p class="warning" id="warningId"></p> 
 
             </form>
+            
 
         </div>
+       
 
         <div>
             <p class="texto-redes-contacto">Seguinos también por nuestras Redes Sociales</p>
@@ -73,9 +76,11 @@
     <footer>       
 
         <div class="copyright">
-            <p>&copy 2022 OCHOBIT - TODOS LOS DERECHOS RESERVADOS</p>
+           <p>&copy 2022 OCHOBIT - TODOS LOS DERECHOS RESERVADOS</p>
         </div>
 
     </footer>
+
+<script src="JS/contacto.js"></script>
 </body>
 </html>

@@ -35,20 +35,23 @@
     <main>
 
         <div class="caja_seccion">
-            <form action="">
+            <form action="" id="login" >
 
                 <label for="correoelectronico">Correo Electrónico</label>
                 <input type="email" id="correoelectronico" class="input-padron" required placeholder="email@dominio.com">
                 
-                <label for="contraseña">Contraseña</label>
-                <input type="password" id="contraseña" class="input-padron" required placeholder="**********">
+                <label for="contrasenia">Contraseña</label>
+                <input type="password" id="contrasenia" class="input-padron" required placeholder="**********">
                 
                 
                 <label class="checkbox" for=""><input type="checkbox" checked>Recordar contraseña</label>
 
                 <input type="submit" value="login" class="login">
+                <p class="warning" id="warningId"></p> 
 
             </form>
+           
+
         </div>
 
         <div class="caja_seccion">
@@ -70,9 +73,11 @@
         </section>
 
         <div class="copyright">
-            <p>&copy 2022 OCHOBIT - TODOS LOS DERECHOS RESERVADOS</p>
-        </div>
+          <!---  <p>&copy 2022 OCHOBIT - TODOS LOS DERECHOS RESERVADOS</p>
+        </div>-->
 
     </footer>
+
+<script src="JS/login.js"></script>
 </body>
 </html>

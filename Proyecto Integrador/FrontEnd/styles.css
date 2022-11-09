@@ -292,6 +292,14 @@ form label, form legend {
     transform: scale(1.05);
 }
 
+.warning{
+    width: 200 px;
+    text-align: center;
+    margin:auto;
+    color:red;
+    padding-top: 20px;
+    
+}
 
 /* SLIDER */
 
