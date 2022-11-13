@@ -1,7 +1,7 @@
 /* DISEÑO GENERAL */
 body{
     font-family: 'Montserrat', sans-serif;
-    background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_04.png");
+    background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_04.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
