@@ -10,11 +10,11 @@ body{
 }
 
 .index {
-    background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_05.png");
+    background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_05.png");
 }
 
 .index_aparte {
-    background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_01.png") ;
+    background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_01.png") ;
 }
 
 
@@ -26,7 +26,7 @@ body{
     position: relative;
     margin: 10px 30px;
     padding: 6em;
-    background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Logo_Completo_Colores.png");
+    background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Logo_Completo_Colores.png");
     background-size: 80%;
     background-repeat: no-repeat;
 }
@@ -39,7 +39,7 @@ body{
     right: 0px;
     padding: 0.5em 0;
     position: fixed;
-    background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Banner_01.png");
+    background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Banner_01.png");
     background-size: 100%;
 }
 
@@ -373,7 +373,7 @@ footer {
 
     body{
         font-family: 'Montserrat', sans-serif;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_02.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_02.png");
         background-size: auto;
         background-repeat: no-repeat;
         background-position: top;
@@ -387,7 +387,7 @@ footer {
         width: 30%;
         margin: 20px auto;
         padding: 3em;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
         background-size: 50%;
         background-repeat: no-repeat;
     }
@@ -488,7 +488,7 @@ footer {
     
     body{
         font-family: 'Montserrat', sans-serif;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_06.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_06.png");
         background-size: auto;
         background-repeat: no-repeat;
         background-position: bottom;
@@ -499,7 +499,7 @@ footer {
         width: 10%;
         margin: 20px 45px 0;
         padding: 6em;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
         background-size: 50%;
         background-repeat: no-repeat;
     }
@@ -581,7 +581,7 @@ footer {
 
     body{
         font-family: 'Montserrat', sans-serif;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_02.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/ARCHIVOS WEB/Fondo_Textura_02.png");
         background-size: auto;
         background-repeat: no-repeat;
         background-position: top;
@@ -592,7 +592,7 @@ footer {
         width: 15%;
         margin: 20px 45px 0px;
         padding: 6em;
-        background-image: url("/imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
+        background-image: url("imágenes/fullstack-main/LOGO y PAGINA - PNG/LOGO MASC/MASC_Isologo_Colores.png");
         background-size: 50%;
         background-repeat: no-repeat;
     }
